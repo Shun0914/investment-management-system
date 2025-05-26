@@ -414,13 +414,6 @@ This isn't just another investment tracking tool - it's a **complete paradigm sh
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shunsuke914@icloud.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shun0914)
 
-## 🎯 **Current Status**
-
-🔍 **Seeking New Opportunities**: Looking for a technology-forward company that values innovation and technical excellence  
-💰 **Target Compensation**: ¥7M-8M range for optimal contribution  
-📅 **Availability**: October 2025 start preferred  
-🎭 **Philosophy**: "Transform constraints into competitive advantages through systematic innovation"
-
 ---
 
 <div align="center">

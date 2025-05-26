@@ -39,7 +39,7 @@ Instead of building a traditional app, this system leverages **MCP Server + Clau
 *Individual asset performance with strategic categorization and real-time tracking*
 
 **Advanced Analytics:**
-- **Individual Performance**: IVV (+8.79%), QQGM (+6.34%), IAU (+18.9%), SOFI (+11.3%), JOBY (-7.7%)
+- **Individual Performance**: IVV (-3.2%), QQQM (-0.7%), IAU (+18.9%), SOFI (+11.3%), JOBY (-7.7%)
 - **Strategic Classification**: 攻め (Aggressive), 守り (Defensive), 中間 (Middle) categories
 - **Portfolio Weight**: Precise allocation percentages for each holding
 - **Real Investment Validation**: Actual market positions with verified performance
@@ -102,9 +102,9 @@ This project embodies the **"turning constraints into strengths"** mindset:
 ```
 ┌─────────────────────┐    ┌──────────────────┐    ┌─────────────────┐
 │   Claude Desktop    │────│   MCP Server     │────│   File System   │
-│   (UI Interface)    │    │   (server.py)    │    │  (Persistence)   │
+│   (UI Interface)    │    │   (server.py)    │    │  (Persistence)  │
 └─────────────────────┘    └──────────────────┘    └─────────────────┘
-         │                           │                        │
+         │                           │                       │
          │                  ┌─────────────────┐              │
          └──────────────────│   Data Flow     │──────────────┘
                             │ CSV → Analysis  │

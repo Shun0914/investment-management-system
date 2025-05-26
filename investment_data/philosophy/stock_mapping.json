@@ -1,0 +1,47 @@
+{
+  "aggressive": {
+    "description": "超ハイリスク・ハイリターン株（反脆弱性枠）",
+    "target_ratio": 0.1,
+    "tickers": [
+      "SAMPLE1",
+      "SAMPLE2",
+      "SAMPLE3"
+    ],
+    "characteristics": [
+      "爆発的成長の可能性",
+      "破産リスクも含む超高リスク",
+      "技術革新や市場変化の恩恵を受ける銘柄",
+      "数倍〜数十倍のリターン期待"
+    ]
+  },
+  "defensive": {
+    "description": "安全資産（金・国債・現金）",
+    "target_ratio": 0.9,
+    "tickers": [
+      "IAU",
+      "SHY",
+      "IEF",
+      "cash"
+    ],
+    "characteristics": [
+      "元本の安全性重視",
+      "インフレヘッジ機能",
+      "流動性確保",
+      "有事の際の保険機能"
+    ]
+  },
+  "middle": {
+    "description": "中間資産（新規投資停止対象）",
+    "target_ratio": 0.0,
+    "tickers": [
+      "IVV",
+      "QQQM",
+      "mutualFunds"
+    ],
+    "characteristics": [
+      "市場平均的なリターン",
+      "中途半端なリスク・リターン",
+      "バーベル戦略では避けるべき領域"
+    ]
+  }
+}

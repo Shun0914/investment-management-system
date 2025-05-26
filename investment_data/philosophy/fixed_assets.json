@@ -1,0 +1,15 @@
+{
+  "cash": {
+    "value": 1000000,
+    "category": "cash",
+    "description": "緊急資金・投資待機資金",
+    "last_updated": "2025-05-26"
+  },
+  "mutual_funds": {
+    "value": 100000,
+    "category": "middle",
+    "name": "投資信託（サンプル）",
+    "description": "既存保有分（新規投資停止）",
+    "last_updated": "2025-05-26"
+  }
+}

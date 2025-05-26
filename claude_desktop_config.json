@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "Investment Management System": {
+      "command": "python",
+      "args": [
+        "server.py"
+      ],
+      "env": {
+        "PATH": "/path/to/your/python/environment"
+      }
+    }
+  }
+}

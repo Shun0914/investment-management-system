@@ -143,13 +143,13 @@ def fixed_assets_data() -> str:
 
 ## 🎬 **Complete System Workflow**
 
-### **Step 1: MCP Server Initialization**
-![MCP Startup](screenshots/03_mcp_server_initialization.png)
-*MCP Server startup with investment-specific tools and resources*
+### **Step 1: CSV Analysis Preparation**
+![CSV Processing](screenshots/03_csv_analysis_start.png)
+*Investment dashboard policy loading and CSV analysis preparation workflow*
 
-### **Step 2: CSV Data Processing**
-![CSV Processing](screenshots/04_csv_analysis_start.png)
-*Real portfolio CSV data processing with automatic encoding detection*
+### **Step 2: Template Loading Process**
+![Template Loading](screenshots/04_templates_loading.png)
+*Loading investment analysis templates and preparing data processing pipeline*
 
 ### **Step 3: Strategic Analysis Integration**
 ![Resource Integration](screenshots/06_resource_integration.png)
